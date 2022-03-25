@@ -1,0 +1,9 @@
+!CameraPos(f,f,f)
+!CameraFwd(f,f,f)
+!LevelName(s)
+!LoadedSaveGame(s)
+CameraPos(46656.938,3732.401,39957.0)
+CameraFwd(0.022464437,-0.09111945,0.9955865)
+LevelName("Data/Maps/Hope/Home02/home02.map")
+LoadedSaveGame("null")
+
